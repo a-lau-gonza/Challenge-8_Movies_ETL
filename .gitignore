@@ -1,5 +1,7 @@
-# Ignore 'ratings.csv' File too large
+# Ignore CSVs, files too large
 ratings.csv
+movies_metadata.csv
+wikipedia-movies.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
